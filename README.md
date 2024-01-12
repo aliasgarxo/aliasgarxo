@@ -1,34 +1,41 @@
-<!-- Your Name -->
-# Hello, I'm Aliasgar. 👋
+<!-- Aliasgar -->
+# Hi, I'm Aliasgar 👋
 
+<!-- Introduction -->
 I'm a passionate software developer. Welcome to my GitHub profile! 😊
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+<!-- GitHub Stats -->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliasgarxo&show_icons=true&count_private=true&hide=prs&theme=radical)
 
+<!-- Languages and Tools -->
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgarxo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Recent Repositories -->
 ### Recent Repositories:
 
-- [Repo 1](https://github.com/your-username/repo-1)
-- [Repo 2](https://github.com/your-username/repo-2)
-- [Repo 3](https://github.com/your-username/repo-3)
+- [Repo 1](https://github.com/aliasgarxo/repo-1)
+- [Repo 2](https://github.com/aliasgarxo/repo-2)
+- [Repo 3](https://github.com/aliasgarxo/repo-3)
 
+<!-- GitHub Extra Pins -->
 ### My GitHub Extra Pins:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=radical)](https://github.com/your-username/repo-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=radical)](https://github.com/your-username/repo-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=repo-1&theme=radical)](https://github.com/aliasgarxo/repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=repo-2&theme=radical)](https://github.com/aliasgarxo/repo-2)
 
+<!-- Connect with me -->
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-link/)](https://www.linkedin.com/in/your-link/)
-[![Twitter Badge](https://img.shields.io/badge/-YourName-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
+[![Linkedin Badge](https://img.shields.io/badge/-Aliasgar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliasgarxo/)](https://www.linkedin.com/in/aliasgarxo/)
+[![Twitter Badge](https://img.shields.io/badge/-aliasgarxo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aliasgarxo)](https://twitter.com/aliasgarxo)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+<!-- Visitor Count -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aliasgarxo.aliasgarxo)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical)
-
+<!-- GitHub Streak -->
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliasgarxo&theme=radical)
 
 
 <!---
