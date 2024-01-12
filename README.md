@@ -10,7 +10,7 @@ I'm a passionate software developer. Welcome to my GitHub profile! 😊
 <!-- Languages and Tools -->
 ### Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgarxo&layout=compact&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgarxo&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Recent Repositories -->
 ### Recent Repositories:
