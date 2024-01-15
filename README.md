@@ -22,7 +22,8 @@ I'm a passionate software developer. Welcome to my GitHub profile! 😊
 <!-- GitHub Extra Pins -->
 ### My GitHub Extra Pins:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=KubeFlow)](https://github.com/aliasgarxo/KubeFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=KubeFlow&theme=city_lights)](https://github.com/aliasgarxo/KubeFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=JenkinsDocker_pipeline&theme=city_lights)](https://github.com/aliasgarxo/JenkinsDocker_pipeline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=repo-2&theme=radical)](https://github.com/aliasgarxo/JenkinsDocker_pipeline)
 
 <!-- Connect with me -->
