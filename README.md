@@ -2,7 +2,10 @@
 # Hi, I'm Aliasgar 👋
 
 <!-- Introduction -->
-I'm a passionate software developer. Welcome to my GitHub profile! 😊
+Dedicated and highly motivated DevOps Engineer with a strong foundation in Automation, and Infrastructure management.
+I bring a passion for technology and a willingness to learn and adapt
+to new challenges. Skilled in configuring and maintaining CI/CD pipelines, automating deployment processes, AWS services,
+and DevOps tools. Eager to contribute my skills and enthusiasm. 😊
 
 <!-- GitHub Stats -->
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliasgarxo&show_icons=true&count_private=true&hide=prs&theme=radical)-->
@@ -22,9 +25,8 @@ I'm a passionate software developer. Welcome to my GitHub profile! 😊
 <!-- GitHub Extra Pins -->
 ### My GitHub Extra Pins:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=KubeFlow&theme=city_lights)](https://github.com/aliasgarxo/KubeFlow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=JenkinsDocker_pipeline&theme=city_lights)](https://github.com/aliasgarxo/JenkinsDocker_pipeline)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=repo-2&theme=radical)](https://github.com/aliasgarxo/JenkinsDocker_pipeline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=KubeFlow&layout=compact&theme=city_lights)](https://github.com/aliasgarxo/KubeFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=JenkinsDocker_pipeline&layout=compact&theme=city_lights)](https://github.com/aliasgarxo/JenkinsDocker_pipeline)
 
 <!-- Connect with me -->
 ### Connect with me:
