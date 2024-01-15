@@ -15,14 +15,14 @@ I'm a passionate software developer. Welcome to my GitHub profile! 😊
 <!-- Recent Repositories -->
 ### Recent Repositories:
 
-- [Repo 1]( https://github.com/aliasgarxo/Docker-3-tier)
-- [Repo 2](https://github.com/aliasgarxo/JenkinsPipeline)
-- [Repo 3](https://github.com/aliasgarxo/Multi-tier-Terraform-Application)
+- [Docker 3-tier Infrastructure]( https://github.com/aliasgarxo/Docker-3-tier)
+- [Jenkins CI/CD Pipeline for Application deployment](https://github.com/aliasgarxo/JenkinsPipeline)
+- [Terraform Automation script for multi tier architecture](https://github.com/aliasgarxo/Multi-tier-Terraform-Application)
 
 <!-- GitHub Extra Pins -->
 ### My GitHub Extra Pins:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=repo-1&theme=radical)](https://github.com/aliasgarxo/KubeFlow)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=KubeFlow)](https://github.com/aliasgarxo/KubeFlow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aliasgarxo&repo=repo-2&theme=radical)](https://github.com/aliasgarxo/JenkinsDocker_pipeline)
 
 <!-- Connect with me -->
